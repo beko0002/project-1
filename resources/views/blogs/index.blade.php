@@ -10,7 +10,7 @@
 <div class="hero-body">
             <div class="container">
                 <p class="title is-2">Blog</p>
-                <p class="subtitle is-3">The latest Post</p>
+                <p class="subtitle is-3">The latest Blogs</p>
 
             </div>
         </div>
